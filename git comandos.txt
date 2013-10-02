@@ -1,8 +1,0 @@
-para hacer cambios:
-git push origin master 
-git commit -m ""
-git status
-git add NOMBREARCHIVO
-git pull origin master= descargar todo
-
-hola que hace xD
